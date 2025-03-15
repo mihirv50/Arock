@@ -2,7 +2,7 @@
 
 const Menu = () => {
   return (
-    <div className="text-2xl font-semibold">Menu</div>
+    <div className="text-xl font-semibold text-right">Menu</div>
   )
 }
 

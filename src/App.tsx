@@ -5,7 +5,7 @@ import { Home } from "./Components/Landing/Home";
 const App = () => {
   return (
     <>
-      <div className="h-screen bg-[#111] overflow-hidden">
+      <div className="h-screen bg-[#111] overflow-hidden tracking-widest">
         <LoadParent />
         <Home />
       </div>

@@ -4,8 +4,7 @@ import Menu from "./Menu";
 const Nav = () => {
   return (
     <>
-      <div className="flex w-fullitems-center justify-between px-7 py-6">
-        <Logo />
+      <div className=" w-full px-7 py-6">
         <Menu />
       </div>
     </>

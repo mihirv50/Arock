@@ -18,7 +18,7 @@ const LoadChild = () => {
         })
     })
   return (
-    <div ref={loadRef} className="w-0 h-full bg-white">LoadChild</div>
+    <div ref={loadRef} className="w-0 h-full bg-white"></div>
   )
 }
 
